@@ -1,3 +1,5 @@
 # do not push pyc file to git
-*.pyc
+*.pyc 
 
+#ignore files 
+__pycache__/
