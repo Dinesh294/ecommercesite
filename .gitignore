@@ -1,3 +1,3 @@
 # do not push pyc file to git
-*.pyc
+*.pyc 
 
